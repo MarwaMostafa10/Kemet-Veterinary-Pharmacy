@@ -46,6 +46,10 @@ Step 2: Data Structuring 🛠️
 Organize data into tables: Sales, Inventory, and Customer Data.
 Create Calculations like total revenue, average profit, and inventory turnover.
 
+Contact Information 📧 For any questions, collaborations, or if you’re interested in utilizing this solution for your business, feel free to contact me:
+
+Email: [marwaanalysis@gmail.com] LinkedIn: [www.linkedin.com/in/marwa-mostafa-982197337]
+
 
 Benefits of the Excel Dashboard and Report:
 User-Friendly: Clear visuals and interactive filters make data exploration easy.
